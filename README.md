@@ -18,8 +18,8 @@ Which leads the bot from locations of higher potential to lower potential while 
 ## Trajectory 1
 <img align="center" src="images/trajectory1.png">
 
-## Trajectory 2
+## Trajectory 2 (Changing Initial Location)
 <img align="center" src="images/trajectory2.png">
 
-## Trajectory 3
+## Trajectory 3 (Moving Obstacle Placement)
 <img align="center" src="images/trajectory3.png">
