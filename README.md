@@ -19,7 +19,7 @@ Which leads the bot from locations of higher potential to lower potential while 
 <img align="center" src="images/trajectory1.png">
 
 ## Trajectory 2
-<img align="center" src="images/trajectory1.png">
+<img align="center" src="images/trajectory2.png">
 
 ## Trajectory 3
 <img align="center" src="images/trajectory3.png">
