@@ -11,3 +11,15 @@ Gradient Descent Algorithm
 Which leads the bot from locations of higher potential to lower potential while avoiding sources—local maximums in the potential field. This will work as long as there are no local minimums that the robot will encounter on its path towards its goal.
 
   - x=x-α∇A(x)=x-αE
+
+## Environment Modeling using Contour and Mesh
+<img align="center" src="images/plots.png">
+
+## Trajectory 1
+<img align="center" src="images/trajectory1.png">
+
+## Trajectory 2
+<img align="center" src="images/trajectory1.png">
+
+## Trajectory 3
+<img align="center" src="images/trajectory3.png">
