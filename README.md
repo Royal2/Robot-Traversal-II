@@ -1,10 +1,10 @@
 # Robot Traversal II
 
-Visualizing Potential Field
+#### Visualizing Potential Field
 
 - using contour, mesh, and quiver plots
 
-Gradient Descent Algorithm
+#### Gradient Descent Algorithm
 
 - Implemented gradient descent algorithm to navigate the potential field
 - The gradient algorithm will model obstacles to avoid as local maximums while following the direction of the vector potential field lines E.
